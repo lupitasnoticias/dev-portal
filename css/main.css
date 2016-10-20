@@ -1,0 +1,31 @@
+body{
+	background: rgb(124,255,223);
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+a{
+	text-decoration: none;
+	color: rgb(15, 186, 255);
+}
+
+a:hover {
+	color: rgb(14,232,197);
+}
+
+.container{
+	background: rgba(255,255,255,.8);
+}
+
+.hidden{
+	display: none;
+}
+
+ul li{
+	list-style: none;
+	display: inline-block;
+}
+
+header figure img{
+	margin: 0 auto;
+}
