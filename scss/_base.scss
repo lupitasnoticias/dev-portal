@@ -89,6 +89,15 @@ header {
     background-repeat: no-repeat;
     background-size: cover;
     padding: 10px;
+
+}
+
+.bm a, .bll a, .gll a, .ghll a, .ec a, .sb a, .ss a, .fc a { 
+	color: rgb(63,73,255);
+}
+
+.bm a:hover, .bll a:hover, .gll a:hover, .ghll a:hover, .ec a:hover, .sb a:hover, .ss a:hover, .fc a:hover { 
+	color: rgb(164,76,255);
 }
 
 .bm { 

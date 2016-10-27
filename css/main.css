@@ -543,6 +543,14 @@ header {
   padding: 10px;
 }
 
+.bm a, .bll a, .gll a, .ghll a, .ec a, .sb a, .ss a, .fc a {
+  color: #3f49ff;
+}
+
+.bm a:hover, .bll a:hover, .gll a:hover, .ghll a:hover, .ec a:hover, .sb a:hover, .ss a:hover, .fc a:hover {
+  color: #a44cff;
+}
+
 .bm {
   background: #6fd4ff;
 }
